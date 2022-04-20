@@ -9,4 +9,6 @@ class deneme1 {
 	public void setYas(int yas) {
 		this.yas = yas;
 	}
+
+	//merhabalar
 }
