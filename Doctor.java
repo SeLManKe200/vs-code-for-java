@@ -4,3 +4,4 @@ public class Doctor extends Personnel {
     }
     
 }
+ 
