@@ -5,6 +5,7 @@ public abstract class People {
     private double weight;
     private double height;
     private String TC;
+    
 
     public People(int age, String name, String surname, double weight, double height, String TC) {
         this.setAge(age);

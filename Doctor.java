@@ -3,5 +3,6 @@ public class Doctor extends Personnel {
         super(age, name, surname, weight, height, TC);
     }
     
+    
 }
  
